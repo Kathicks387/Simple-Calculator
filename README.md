@@ -1,1 +1,2 @@
 # Simple-Calculator
+This is a very basic calculator app.  The user will be able to add numbers and get the response back in a sentence.  The user will also be able to calculate their BMI and get the result back in a sentence as well.  I will be making future additions to this app (multiplication, subtraction, division).  At this stage, the app is in its initial state so that I can see whether or not it is functional.
